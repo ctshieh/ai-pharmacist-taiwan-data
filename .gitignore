@@ -1,0 +1,17 @@
+# Build outputs and release assets are published through GitHub Releases,
+# not committed to git history.
+dist/
+release-assets/
+*.sqlite
+*.sqlite3
+*.sqlite3.gz
+*.db
+*.db.gz
+*.zip
+
+# Local source databases may contain temporary development state.
+source/
+*.tmp
+__pycache__/
+
+.DS_Store
