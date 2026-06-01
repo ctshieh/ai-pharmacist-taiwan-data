@@ -29,6 +29,13 @@ https://github.com/ctshieh/ai-pharmacist-taiwan-data/releases/latest/download/ma
 
 App 下載後必須驗證 SHA-256 與簽章，驗證失敗不得啟用該資料包。
 
+## Android APK 安裝
+
+Android 版若由 GitHub Release 提供 APK 下載，請引導使用者閱讀：
+
+- [安心藥盒 Android APK 安裝手冊](ANDROID_APK_INSTALL_GUIDE_ZH.md)
+- 官方網站圖文版：<https://safemed.bridgeaiworks.com/downloads/android-install-guide/>
+
 ## iOS / Android 使用方式
 
 手機 App 只下載資料，不下載可執行程式碼。資料包應放在 App sandbox 內，並標記為可重新下載資料，避免進入 iCloud 備份。
